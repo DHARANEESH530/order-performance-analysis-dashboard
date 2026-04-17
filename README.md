@@ -48,11 +48,15 @@ How to Use:
 
  Dashboard Preview
 
-**Power BI Dashboard**
-[Power BI Dashboard](powerbi_Dashboard.png)
+## Dashboard Preview
 
-**Tableau Dashboard**
-[Tableau Dashboard](tableau_dashboard.png)
+### Power BI Dashboard
+![Power BI Dashboard](powerBI_Dashboard.png)
+
+### Tableau Dashboard
+![Tableau Dashboard 1](tableau_Dashboard.png)
+
+![Tableau Dashboard 2](tableau_dashboard.png)
 
 
 Author

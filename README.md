@@ -46,6 +46,14 @@ How to Use:
  -Open using Power BI Desktop or Tableau
  -Interact with dashboards to explore insights
 
+ Dashboard Preview
+
+**Power BI Dashboard**
+[Power BI Dashboard](powerbi_Dashboard.png)
+
+**Tableau Dashboard**
+[Tableau Dashboard](tableau_dashboard.png)
+
 
 Author
 Dharaneesh.P
